@@ -1,4 +1,4 @@
-# Yahav-s-USB-Hub
+# Packman Nostalgic USB Hub Keychain
 Following the Hack Club USB Hub Guide with my own personalized twist
 
 In order to use this USB Hub, one must plug their outputting male cord into the female usb-c connector on the right ear, then connect accepting cords into the other USB-c ports and USB-a port.
