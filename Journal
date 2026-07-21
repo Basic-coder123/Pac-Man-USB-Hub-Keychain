@@ -1,0 +1,22 @@
+7/10/26 - Learned what a PCB was, the 5 five layers I need to know (substrate, copper layers, solder mask layers, and silkscreens), and basics on how to use EasyEDA. (3:10 PM - 3:20 PM)
+Cleaning up a schematic by getting rid of useless information is good practice. Datasheets that are provided by every manufacturer and give you pin descriptions, example circuits, electrical specs, and  usually even a reference design. Lastly, I completed my schematics using an SL2.1S  as my USB hub, a type-c USB as my upstream port, and 3 type-C’s and 1 type-A as my downstream ports. (3:20 PM - 5:10 PM)
+
+
+7/11/25 - Made the mistake of not connecting my GND to the SH on my USB type C ports and not adding a capacitor to the GND connector on my USB type A Yesterday, so I fixed those issues today by checking the errors in the DRC. 
+Made guitar outline for PCB. Finished the layout of the PCB. I made a lot of mistakes along the way and had to reshape my board a couple of times.
+(10:00 AM - 11:30 AM)
+
+
+7/13/26 - Redid the entire layout and design since the guitar design just wasn’t feasible because  of its small width. I decided to go with a sharp-eared rabbit design. The main errors I had in the first design is that the lines crossed over and I couldn’t connec the IU to all the ports (I only figured this out after I started connection stuff, so it kind of sucked). (9:17 PM - 10:50PM)
+Routed all the passive components first. Then I routed the differential pairs for the usb data pins and added the single routing for the DP and DN pads in each USB type C port.Then finished the rest of the routing.
+(10:50PM - 11:45PM)
+
+7/14/26 - 
+Added a keyhole and a design to the back and front. I also filleted the edges. (3:47PM - 4:17PM)
+I had like 20 errors on my DCR so I dwindled that down to 7.
+(4:17PM - 4:52PM)
+
+7/15/26 - Fixed all the DCR errors and finalized the project. For example the usb splitter had some connection issues for the GND ports so I fixed it (10:19pm - 11:21pm)
+
+7/20/26 - Redid the outline and design on the PCB to make it into a pac-man keychain USB hub (I had to cutom draw the pacman design). I had to rewire the power lines from the hub chip the connectors I moved.imageI also added to my GitHub description as well as attached the correct files and links in it.
+(9:49PM - 10:56PM)
