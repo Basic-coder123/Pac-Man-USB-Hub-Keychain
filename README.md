@@ -5,8 +5,7 @@ In order to use this USB Hub, one must plug their outputting male cord into the 
 
 I made this because I only have one USB-c outlet and I have multiple USB-c devices that I would like to charge at once.
 
-I added the guitar on the back and decided on the punk-rock type face shape for the board because I've gotten into rock lately and it seems cool.
+I decided to make this design as a pac-man keychain because it is a show that I grew up on and I wanted to have a reminder of my childhood alongside my growth as I learn to build even cooler projects.
 
-<img width="1007" height="762" alt="Screenshot 2026-07-15 232737" src="https://github.com/user-attachments/assets/7d974cf7-f683-4f1f-8107-29adf5203180" />
-<img width="1066" height="764" alt="Screenshot 2026-07-15 232812" src="https://github.com/user-attachments/assets/54aeb195-1c7f-427a-a405-4920adc12570" />
-<img width="628" height="326" alt="Screenshot 2026-07-15 232846" src="https://github.com/user-attachments/assets/47ab41e2-314a-40ec-8ecd-1f23e1eb6968" />
+<img width="536" height="330" alt="image" src="https://github.com/user-attachments/assets/88afe0db-2a8a-4178-a6f5-a7124aeb3cd6" />
+<img width="1035" height="717" alt="image" src="https://github.com/user-attachments/assets/95914c37-4eb5-4785-8e1b-d387f5622cf7" />
